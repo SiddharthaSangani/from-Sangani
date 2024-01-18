@@ -8,3 +8,8 @@ The ***Thousand Pillar*** restaurant has **themed ambiance** and ***they serves 
 2. Crispy corn
 3. Strawberry Blossom
 4. Cool Feel
+
+* Kakatiya Zoological Park
+* Kakatiya fort
+* Children park
+
