@@ -28,3 +28,10 @@ The below table gives you the information about my favorite books and the reason
 | Wings of fire | Nice auto biography | Arun Tiwari |
 | Learning how to fly | Teches how to overcome challenges | Abdul Kalam |
 | Ignited Minds | Motivational book | Adbul Kalam |
+
+---
+
+### Favorite Quotes
+
+> If you want to shine like a sun, first burn like a sun ***Abdul kalam***
+> Pain is invetible. Suffering is optional. ***Haruki Murakami***
