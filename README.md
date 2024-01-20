@@ -15,3 +15,16 @@ The **Thousand Pillar** restaurant has **themed ambiance** and ***they serves au
 * Children park
 
 You can find mymedia file here [page](MyMedia.md)
+
+---
+
+### Table section 
+
+The below table gives you the information about my favorite books and the reason why i like it and the author of it.
+
+| Name | Reason | Author |
+|:--- | :---: | ---:|
+|Rich dad poor dad | nice information about wealth creation | Robert Kiyosaki |
+| Wings of fire | Nice auto biography | Arun Tiwari |
+| Learning how to fly | Teches how to overcome challenges | Abdul Kalam |
+| Ignited Minds | Motivational book | Adbul Kalam |
