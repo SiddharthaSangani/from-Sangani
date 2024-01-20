@@ -36,3 +36,28 @@ The below table gives you the information about my favorite books and the reason
 > If you want to shine like a sun, first burn like a sun ***Abdul kalam***
 >
 > Pain is invetible. Suffering is optional. ***Haruki Murakami***
+
+---
+
+### Code fencing
+ 
+This simple Node.js code is used to get the data out of a Node.js HTTP get request with JavaScript, we can listen for the data event on the response and append it until the response has ended.
+
+```
+
+const callback = (response) => {
+	let str = "";
+	response.on("data", (chunk) => {
+		str += chunk;
+	});
+
+	response.on("end", () => {
+		console.log(str);
+		// ...
+	});
+};
+
+const request = http.request(options, callback).end(); 
+
+```
+Link to snippet source is <https://code.pieces.app/collections/node-js>
