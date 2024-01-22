@@ -44,8 +44,7 @@ const callback = (response) => {
 		// ...
 	});
 };
-```
+
 const request = http.request(options, callback).end(); 
-
-
+```
 Link to snippet source is <https://code.pieces.app/collections/node-js
