@@ -22,3 +22,21 @@ The below table gives you the information about my favorite books and the reason
 > If you want to shine like a sun, first burn like a sun *Abdul kalam*
 > 
 >Pain is invetible. Suffering is optional. *Haruki Murakami*
+
+---
+
+### Code fencing
+
+Merge two python dictionaries into one, or as many dictionaries as you have.
+
+```
+def merge_dicts(*dicts):
+  super_dict = {}
+  for dict in dicts:
+      for k, v in dict.items():
+          super_dict[k] = v
+
+ return super_dict
+
+ ```
+ Link for snipet source <https://code.pieces.app/collections/python>
