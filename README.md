@@ -14,3 +14,4 @@ The **Thousand Pillar** restaurant has **themed ambiance** and ***they serves au
 * Kakatiya fort
 * Children park
 
+You can find mymedia file here [page](MyMedia.md)
