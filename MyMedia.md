@@ -31,7 +31,7 @@ The below table gives you the information about my favorite books and the reason
  
 This simple Node.js code is used to get the data out of a Node.js HTTP get request with JavaScript, we can listen for the data event on the response and append it until the response has ended.
 
-
+```
 
 const callback = (response) => {
 	let str = "";
@@ -44,7 +44,7 @@ const callback = (response) => {
 		// ...
 	});
 };
-
+```
 const request = http.request(options, callback).end(); 
 
 
