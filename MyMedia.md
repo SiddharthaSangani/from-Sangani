@@ -29,7 +29,7 @@ The below table gives you the information about my favorite books and the reason
 
 ### Code fencing
 
-Merge two python dictionaries into one, or as many dictionaries as you have.
+Merge two python dictionaries into one, or as many dictionaries as you have. The below code is collected based on my S number. My last second number is 3 so it is collected from python and last number is 4 so 4+1 it is 5. so we need to take 5th code but 5th is only one line so took 6th code.
 
 ```
 def merge_dicts(*dicts):
